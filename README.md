@@ -1,3 +1,6 @@
+<div align='center'>
+![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:d823a8&fontColor=ffffff)
+  </div>
 ## 🌐 Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ESSAMMOHAMED1)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/essam-mohamed-32a697239)
