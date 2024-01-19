@@ -41,8 +41,8 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ESSAMMOHAMED1&theme=onedark&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Starts,Followers,Experience" alt="Trophy" />
+ <p align="center">
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=ESSAMMOHAMED1&theme=onedark&title=MultiLanguage,Commits,Repositories,PullRequest,Experience" alt="Trophy" />
 </p>
 
 ### ✍️ Random Dev Quote
