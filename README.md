@@ -1,8 +1,11 @@
 <div align='center'>
+
   ![](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20I'm%20Essam!&fontAlign=40&fontAlignY=40&color=0:0F0FF0,100:d823a8&fontColor=ffffff)
+
 </div>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=ESSAMMOHAMED1&label=Profile%20views&color=0e75b6&style=flat" alt="ESSAM" /> </span>
+
 ## 🌐 Socials:
 
 <a href="https://github.com/ESSAMMOHAMED1" target="_blank">
